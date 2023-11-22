@@ -1,0 +1,581 @@
+tweet_id,label,tweet
+1,1,Just spilled coffee all over my laptop. Happy Monday to me! :rolling_on_the_floor_laughing:
+2,1,"Oh, fantastic! My favorite show just got canceled. Because who needs closure anyway? #sarcasm"
+3,1,Spent all day in traffic. Love it. #TrafficJam #BestDayEver
+4,0,Why does my alarm go off so early? I love waking up before the sun. :unamused_face:
+5,1,Nothing like a flat tire on a rainy day. Perfect start to the weekend. #Not
+6,0,Can't wait for another meeting that could have been an email. #CorporateLife
+7,1,"Oh great, my favorite team lost again. Just what I needed. #SportsFan"
+8,1,Love it when autocorrect changes my message to something completely different. #Not
+9,0,Who needs sleep anyway? Staying up all night is the best. :sleeping_face:
+10,1,Just missed my train. Perfect timing as always. #Sarcasm
+11,0,Spent an hour looking for my keys. They were in my hand the whole time. #Facepalm
+12,1,"Oh, joy! Another Monday. Can't contain my excitement. #MondayMotivation"
+13,1,Love it when my computer crashes right before a deadline. #PerfectTiming
+14,0,Getting a flat tire in the pouring rain is the highlight of my day. #Sarcasm
+15,0,"Spent hours on a project, only to realize I used the wrong data. #EpicFail"
+16,1,"Wonderful, my favorite song is stuck in my head again. #Sarcasm"
+17,0,Just received a spam call during an important meeting. #PerfectTiming
+18,1,"Nothing like a surprise pop quiz. Thanks, professor! #Sarcasm"
+19,1,"Lost my wallet. Fantastic day, isn't it? #Sarcasm"
+20,1,"Great, my phone died in the middle of an important call. #PerfectTiming"
+21,0,Who needs a good night's sleep anyway? #Insomnia
+22,1,Just what I needed – another parking ticket. #Sarcasm
+23,0,Forgot my umbrella on a rainy day. Perfect. #SoggyCommute
+24,1,Stuck in the longest line at the grocery store. Joyous occasion! #Sarcasm
+25,1,Accidentally liked my crush's photo from 3 years ago. Smooth move. #Sarcasm
+26,0,"Spent hours cooking a gourmet meal, and I burnt it. #ChefSkills"
+27,0,Just got a paper cut. Highlight of my day. #Ouch
+28,1,"Oh, fantastic! My internet went out right in the middle of binge-watching. #PerfectTiming"
+29,0,Who needs a fully charged phone anyway? Mine dies at the most convenient times. #LowBattery
+30,1,Locked myself out of my car in the pouring rain. What luck! #Sarcasm
+31,1,Nothing like a surprise visit from the in-laws. Just what I needed. #Sarcasm
+32,0,Spilled coffee on my white shirt. Great way to start the day! #CoffeeDisaster
+33,0,"Accidentally sent a text to the wrong person. Smooth move, genius. #TextFail"
+34,1,"Just realized I left my lunch at home. Awesome, I love a hungry afternoon. #Sarcasm"
+35,1,Nothing like a flat tire on a road trip. Adventure time! #Sarcasm
+36,1,Love it when my computer freezes right before saving a document. #PerfectTiming
+37,0,Got caught in the rain without an umbrella. Soaked to the bone. #SoggyDay
+38,0,Who needs a functioning alarm clock anyway? Overslept again. #LateStart
+39,1,"Perfect, spilled coffee on my laptop. Because who needs a working computer? #Sarcasm"
+40,0,Forgot my umbrella on a stormy day. Drenched and loving it. #RainyDay
+41,1,Just what I needed – a flat tire on my way to an important meeting. #Sarcasm
+42,0,Accidentally sent a message meant for my friend to my boss. Smooth move. #TextFail
+43,1,Locked myself out of the house in my pajamas. Fashion statement of the day. #Sarcasm
+44,0,Who needs a functioning coffee maker? Enjoying my instant coffee. #MorningRush
+45,1,"Spent hours on a presentation, and the file got corrupted. Perfect. #Sarcasm"
+46,1,"Great, my favorite show got canceled. What will I do with all this free time? #Sarcasm"
+47,0,Forgot my phone charger. Living life on the edge. #LowBattery
+48,0,"Oh, joy! Another traffic jam. Just what I needed for a relaxing commute. #Sarcasm"
+49,1,Accidentally sent a text about someone to that person. Awkward much? #Sarcasm
+50,0,Spent an hour looking for my glasses. They were on my head. #BlindMoment
+51,1,Just got a parking ticket in a spot I thought was free. Lucky me! #Sarcasm
+52,0,Forgot my lunch at home. Vending machine cuisine it is. #HungryDays
+53,1,Stuck in the longest line at the DMV. The highlight of my week. #Sarcasm
+54,0,Who needs a working alarm clock? Overslept again. #LateStart
+55,1,"Oh, fantastic! My favorite band just broke up. Perfect timing. #Sarcasm"
+56,1,Nothing like a surprise tax bill. Just what I wanted. #Sarcasm
+57,0,"Just spilled water on my phone. Water-resistant, my foot! #TechFail"
+58,1,Love it when my GPS leads me to the wrong place. Adventure time! #Sarcasm
+59,0,Who needs a well-planned vacation? I love last-minute trips. #Spontaneous
+60,0,Got caught in the rain without an umbrella. Soaked and smiling. #RainyJoy
+61,1,"Perfect, my favorite shirt just got a stain. #FashionStatement #Sarcasm"
+62,1,Accidentally liked my crush's old photo. Thumbs up to embarrassment. #Sarcasm
+63,0,Forgot my keys at home. Locked out and loving it. #LostKeys
+64,1,"Spent hours cooking, and the recipe turned into a disaster. #MasterChef #Sarcasm"
+65,0,Who needs a well-functioning coffee machine? Instant coffee is life. #MorningRush
+66,1,Locked myself out of the car in the pouring rain. Great start to the day. #Sarcasm
+67,0,"Accidentally sent a message to my ex. Smooth move, thumbs up. #TextFail"
+68,1,"Great, my favorite movie just got removed from streaming. Perfect timing. #Sarcasm"
+69,0,Forgot my umbrella on a rainy day. Embracing the wet look. #SoggyStyle
+70,0,Who needs a fully charged phone? Mine dies at the most convenient times. #LowBattery
+71,1,Nothing like a flat tire on a road trip. Adventure awaits! #Sarcasm
+72,0,Why do weekends go by so quickly? #TimeFlies
+73,0,Spent hours on a puzzle only to realize a piece is missing. #PuzzleProblems
+74,0,Just spilled coffee on my keyboard. Perfect start to the workday. #CoffeeDisaster
+75,0,@TechGeek17 Can't believe I forgot my phone charger. #LowBattery
+76,1,"Decided to take a shortcut, got lost instead. Fantastic navigation skills. #Sarcasm"
+77,0,Forgot my umbrella on a rainy day. Embracing the wet look. #RainyStyle
+78,1,"Planned a relaxing weekend, ended up with a to-do list. Thanks, life. #Sarcasm"
+79,0,Spent all morning looking for my glasses. They were on my head. #BlindMoment
+80,0,Why does my tongue feel it necessary to try and touch the dentist's tools? #DentalDilemma
+81,0,Who needs a functioning coffee machine? Instant coffee is life. #CoffeeLover
+82,1,Accidentally liked my ex's new relationship status. Thumbs up to embarrassment. #Sarcasm
+83,0,Spent an hour looking for my keys. They were in my hand. #LostAndFound
+84,1,Locked myself out of my car in the pouring rain. Great start to the day. #Sarcasm
+85,1,"Great, my favorite band just broke up. Perfect timing. #Sarcasm"
+86,1,Just spilled coffee on my laptop. Happy Monday to me! :rolling_on_the_floor_laughing:
+87,1,"Oh, fantastic! My favorite show just got canceled. Because who needs closure anyway? #Sarcasm"
+88,1,Accidentally washed my phone. Now it's a waterproof brick. #Genius
+89,1,Locked myself out of the house. Great start to the day. #Sarcasm
+90,0,Just burned dinner. Takeout it is. #MasterChef
+91,1,@AmbControl999 @HouseofCommons @Ed_Miliband @nick_clegg @David_Cameron nice to see the ambulance service is so important to OUR mps
+92,0,The rain has made extra extra lazy:smiling_face_with_open_mouth_and_cold_sweat:
+93,0,"I was doing great with this summary of my year until I got to June 27th, and the weekend of @Hartswormx3 's birthday. #rivertrip #groupchat"
+94,0,"see, that MIGHT show up on a background check, and you'd be denied its a catch 22 we have the right to self protection @serpentina66"
+95,1,Smh never knew something could be 80% halal....Been muslim my whole life but somehow i've learned something new i guess
+96,1,A wonderful day of starting work at 6 am
+97,0,i feel like whole life is about waiting waiting and waiting
+98,0,@Pure_playa85 lol :grinning_face_with_smiling_eyes:.. Will let my kids know when they get up in the morning.. Thanks for the tip
+99,1,"@RedSox you guys sure screwed this up royally. I'm happy for Lester, the brain trust over there sucks. #nicejob #LesterToChicago"
+100,0,"#Aussie #gunman #was #on terrorist #watch #list, PM #says: SYDNEY – The gunman who took 17 hostages in Sydney... http://t.co/ibnxdPtu3W"
+101,1,"""Twig"" is now ""Sprig""—3 sec limit on new social video platform #techtalk #editorspick #sillyvine #Tr... https://t.co/0DMkcXpYzq"
+102,0,@HEELTeacher and what will that achieve? Seriously?To be fired.all the guys who had the balls to call them out are gone..
+103,1,Yay for another work at 4 am day :neutral_face:
+104,1,Physical therapy at 8 am is just what I want to be doing with my Friday #iwanttosleep
+105,1,Omg @FloptimusCrime didn't tell @giantfootyguy he was in town :face_screaming_in_fear: #trueFriend
+106,1,"I THOUGHT WHAT WE HAD WAS REAL, HOW COULD YOU BE FINE? COZ I'M NOT FINE AT ALL Oh wait. Fixed the caps lock ^.^ #LaughNow .o."
+107,1,"HaHaHaHa!! #hypocrisy ""MT @Independent: Katie Hopkins calls Russell Brand a bully..........: http://t.co/DZ05xHiuwl"""
+108,1,That moment when you have so much stuff to do but you open @tumblr ... #productivity #tumblr
+109,0,Lol! I m enjoying it:two_women_holding_hands: #Talks #Crazyness #SheNeverLeft sleepy!! :white_smiling_face:
+110,1,Luv this
+111,1,": When some naturopaths sell ""aromatic"" herbs the way apothecaries sell noxious poisons. #Naturopath=#Apothecary #Herb=#Poison"
+112,0,"""@dixiessixty: Goal of the Season 1970: GOAL 1. Jon Sammels #ARSENAL vs #manutd https://t.co/W1p9bptdT3"" @Lloydgallagher3 @bigtant1986"
+113,0,"really, what else can a fish be besides a fish? @RBRNetwork1 @TheOldBreed1775 @IndyEnigma @diverdown48"
+114,0,@malesurvivor72 I think it's a safe bet it won't fit the crime.
+115,0,It will be impossible for me to be late if I start to dress up right now. #studing #university #lazy
+116,1,When you're already running late and then your car won't start &lt;&lt;&lt; #FantasticFriday
+117,1,i decided to become my own boss to have more free time.. now i have no time left whatsoever.
+118,0,loyalty vs. self protection loyalty vs. self protection loyalty vs. self protection loyalty vs. self protection
+119,0,American Kids starting playing and now I'm super missing #summer2k14 #kennychesney
+120,0,@corporateknight don't know how#Monsanto # among 100 most sustainable Cos in the world sure all parameters are measured#net positive?
+121,0,"0 None of the big, disruptive innovations in our lives have come out of brainstorming. -Bruce Nussbaum http://t.co/ituc6zpusB"
+122,0,that way people get to understand disabilities and not stare at us funny wen we out and about#IDPwD#disability
+123,1,@TheoCorleone @david_maclellan Shit! I better shut my stupid girly mouth because im so concerned about what men might think of me.
+124,0,Why does my tongue feel it necessary to try and touch the high-speed tool my dentist has put in my mouth?
+125,0,Tell me the #Quintessential #Aussie now isn't a Govt paid job & then have the hyde to buy overseas online and pay no GST . mmm #SadButTrue
+126,0,Just found a shortcut to happiness: unlimited coffee and a good book. #Bliss :coffee:
+127,1,Debating whether to adult today or continue my Netflix marathon. :thinking_face: #AdultingDilemma
+128,0,"So apparently, life doesn't come with a manual. I'm just here winging it. :woman_shrugging: #LifeStruggles"
+129,1,"Can someone explain why ""abbreviated"" is such a long word? Mind-boggling. :exploding_head: #LanguageMysteries"
+130,0,Who needs a personal trainer when you have the option to take the stairs instead of the elevator? :muscle: #FitnessGoals
+131,1,Just had a 30-minute conversation with my pet. Don't judge; they give the best advice. :dog: #PetTherapy
+132,1,Decided to go on a diet. It lasted about as long as my New Year's resolutions. :doughnut::broken_heart: #EpicFail
+133,1,Why do they call it rush hour when nothing moves? :car::hourglass_flowing_sand: #TrafficLogic
+134,1,Spent an hour looking for my phone while talking on it. Genius level: expert. :iphone::facepalm: #TechFail
+135,1,Just completed a 1000-piece puzzle. Now I need a puzzle to figure out what to do with my life. :game_die::thought_balloon: #PuzzleProblems
+136,1,"Attending a time management seminar, but I'm running fashionably late. Irony at its finest. :watch::high_heel: #TimeManagementFail"
+137,1,"Having a salad for lunch because I'm all about that healthy life. By salad, I mean a burger with lettuce. :hamburger::leafy_green: #HealthyChoices"
+138,1,"Trying to adult today, but the bed keeps calling my name. :bed::telephone_receiver: #AdultingStruggles"
+139,1,Just accidentally liked my ex's photo from 87 weeks ago. How's your day going? :see_no_evil::broken_heart: #SocialMediaFails
+140,1,"Why is there no ""Ctrl + Z"" option for life decisions? Asking for a friend. :rewind::thinking_face: #LifeChoices"
+141,1,Finally organized my closet by color. Now I can't find anything. :rainbow::confounded: #OrganizationalFail
+142,1,"Spent an hour making a playlist, only to listen to the same three songs on repeat. :musical_note::repeat: #PlaylistProblems"
+143,1,Attempting to cook dinner. Pray for me. :pray::stew: #KitchenAdventures
+144,1,"Just tried to use my office key card to unlock my front door. Mondays, am I right? :key::calendar: #MondayBlues"
+145,1,Decided to take up meditation. Spent the entire time thinking about tacos. :taco::meditation: #MindfulnessFail
+146,1,Went to the gym and accidentally took a 3-hour nap in the sauna. Fitness level: expert sleeper. :sleeping_accommodation::sweat_droplets: #GymFails
+147,1,Ordered a salad at a fast-food restaurant. The cashier looked at me like I asked for the meaning of life. :leafy_green::question: #FastFoodConfusion
+148,1,"Just spent 20 minutes searching for my glasses. Turns out, I was wearing them. :eyeglasses::facepalm: #GlassesProblems"
+149,1,"Attempting to adult today: bought vegetables. Also bought chocolate. Balance, right? :broccoli::chocolate_bar: #AdultingReality"
+150,1,Why do weekends go by faster than my phone battery? :calendar::battery: #WeekendWoes
+151,0,Successfully adulted today: wore matching socks. Celebrating the small victories. :socks::tada: #AdultingWin
+152,1,Spent an hour composing the perfect tweet. Got distracted and forgot what it was about. :thought_balloon::dizzy_face: #TwitterProblems
+153,1,Just realized I've been singing the wrong lyrics to my favorite song for years. :microphone::flushed: #LyricFail
+154,1,Tried to make a fancy recipe. Ended up ordering pizza. :pizza::woman_shrugging: #KitchenFails
+155,1,"Accidentally put salt in my coffee instead of sugar. Monday, we meet again. :coffee::weary_face: #MondayStruggles"
+156,1,Finally decided to start that novel I've been talking about for years. Ended up binge-watching a TV series. :tv::books: #ProcrastinationLevel1000
+157,1,"Thought I had my life together, then I realized I forgot to buy toilet paper. :roll_of_toilet_paper::woman_facepalming: #AdultingFail"
+158,1,Successfully avoided adult responsibilities today by binge-watching cat videos. :cat::video_camera: #ProcrastinationExpert
+159,1,"Accidentally replied ""you too"" to the waiter who said, ""Enjoy your meal."" Now questioning all life choices. :plate_with_cutlery::woman_facepalming: #SocialAwkwardness"
+160,1,"Decided to be productive today. Ended up rearranging my bookshelf by color. Priorities, right? :books::art: #ProductivityFail"
+161,1,Spent an hour crafting the perfect comeback. Argument ended five minutes ago. :speech_balloon::hourglass: #ComebackFail
+162,1,Attempting to be a morning person. Snoozed the alarm 10 times. :alarm_clock::sleeping_accommodation: #MorningStruggles
+163,1,Bought a plant to prove I can keep something alive. It's not looking good. :seedling::woman_shrugging: #PlantParentingFail
+164,1,Decided to cook a gourmet meal. Set off the smoke detector. Ordered takeout. :fire::takeout_box: #KitchenDisasters
+165,1,"Accidentally liked a tweet while stalking someone's profile. Smooth move, self. :thumbs_up::mag: #SocialMediaStalker"
+166,1,"Thought I could handle spicy food. Nose is now running, and I'm questioning my life choices. :hot_pepper::face_with_thermometer: #SpicyRegrets"
+167,1,Attempting to be a morning person: made it to the coffee maker. Went back to bed. :coffee::bed: #MorningRoutineFail
+168,1,Decided to start a DIY project. Ended up with more paint on myself than on the walls. :paintbrush::woman_facepalming: #DIYDisaster
+169,1,"Just discovered I've been using ""affect"" and ""effect"" incorrectly my entire life. :thinking_face::open_book: #GrammarFail"
+170,1,Accidentally sent a text complaining about someone to that someone. Awkward level: expert. :speech_balloon::grimacing: #TextingFails
+171,1,Went to the gym with the intention of working out. Spent an hour people-watching. :weight_lifter::eyes: #GymGoals
+172,1,Decided to take up a new hobby: sleeping. Napping is an art form. :sleeping_accommodation::art: #HobbyGoals
+173,1,Successfully avoided eye contact with my neighbor for the third day in a row. Social skills on point. :eyes::woman_shrugging: #SocialAnxiety
+174,1,Tried to be a morning person. Accidentally set the alarm for p.m. :alarm_clock::sleeping_accommodation: #MorningFail
+175,1,"Just realized it's almost the end of the year and I haven't achieved any of my resolutions. Next year, for sure. :calendar::woman_shrugging: #ResolutionsReality"
+176,1,Decided to cook a Pinterest recipe. Reality check: my kitchen is now a disaster zone. :woman_cook::fire: #PinterestFail
+177,1,"Thought I could multitask: texting and walking. Walked into a pole. Smooth move, right? :mobile_phone_off::face_with_head_bandage: #MultitaskingFail"
+178,1,Attempting to adult: made a to-do list. Ignored the to-do list. :notebook::woman_shrugging: #AdultingReality
+179,1,Decided to try a new hairstyle. Ended up looking like I got into a fight with my hairbrush. :haircut::woman_shrugging: #BadHairDay
+180,1,Thought I was being responsible by setting a budget. Just spent my entire month's budget on coffee. :chart_with_downwards_trend::coffee: #BudgetingFail
+181,1,Attempting to be a morning person: forgot to set the coffee maker. Mornings are canceled. :alarm_clock::coffee: #MorningStruggles
+182,1,Decided to embrace minimalism. Realized I have too many things to be a minimalist. :house_with_garden::woman_shrugging: #MinimalismFail
+183,1,"Trying to stay positive, but my bed is calling me, and it's a persuasive argument. :bed::thought_balloon: #PositiveThinkingFail"
+184,1,Accidentally liked an old crush's photo while deep in their Instagram. Now I'm committed to the liking spree. :heart::woman_facepalming: #SocialMediaAwkwardness
+185,1,Decided to go on a social media detox. Made it 10 minutes before caving. :no_entry_sign::mobile_phone: #DigitalDetoxFail
+186,1,Attempting to be productive: opened five tabs and forgot what I was doing. :computer::woman_shrugging: #ProductivityProblems
+187,1,"Just spent an hour searching for the perfect GIF. Priorities, right? :film_projector::thinking_face: #GIFHunt"
+188,1,Tried to impress someone with my cooking skills. Burnt water. :fire::woman_shrugging: #KitchenDisasters
+189,1,Decided to adult and do my taxes. Still don't understand taxes. :bar_chart::woman_shrugging: #TaxSeasonStruggles
+190,1,Attempting to be sophisticated by sipping tea. Spilled it all over myself. :tea::woman_facepalming: #TeaTimeFail
+191,1,Thought I could handle spicy food. Currently regretting all life choices. :fire::face_with_thermometer: #SpicyRegrets
+192,1,Decided to get in shape. Ate a salad. Ordered dessert. :leafy_green::cake: #FitnessJourney
+193,1,Attempting to adult: bought a houseplant. Now questioning my ability to keep it alive. :seedling::woman_shrugging: #PlantParentingFail
+194,1,Just spent an hour trying to come up with the perfect hashtag. Still not satisfied. :hash::thinking_face: #HashtagDilemma
+195,1,Thought I could handle a DIY project. Glued my fingers together. :adhesive_bandage::woman_facepalming: #DIYDisaster
+196,1,Attempting to be organized: lost my to-do list. Maybe it's time to give up on organization. :notebook::woman_shrugging: #OrganizationFail
+197,1,Decided to be spontaneous and take a road trip. Got lost in my own neighborhood. :blue_car::woman_facepalming: #SpontaneityFail
+198,1,Tried to be a morning person. Accidentally set the alarm for midnight. Mornings are overrated anyway. :alarm_clock::woman_shrugging: #MorningFail
+199,1,Attempting to be a gourmet chef: burnt toast. Maybe I should stick to cereal. :bread::fire: #KitchenFails
+200,1,Thought I could adult today. Ended up binge-watching a TV series instead. :tv::woman_shrugging: #AdultingStruggles
+201,1,"Just realized I've been using ""affect"" and ""effect"" incorrectly my entire life. :thinking_face::open_book: #GrammarFail"
+202,1,Decided to start a DIY project. Ended up ordering pizza. :pizza::woman_shrugging: #KitchenFails
+203,1,"Just spilled coffee all over my keyboard. Monday, we meet again. :coffee::computer: #MondayStruggles"
+204,1,Decided to do a digital detox. Spent the entire day scrolling through cat memes. :no_entry_sign::cat: #DigitalDetoxFail
+205,1,"When the GPS says ""You've arrived at your destination,"" but you're still lost. #LostInTranslation"
+206,1,Just had a salad for lunch. Because nothing says satisfaction like leaves and dressing. #HealthyChoices
+207,1,"Love it when the alarm goes off, and I hit snooze 5 times. Productivity level: Expert."
+208,1,"Tried a new recipe today. It's called ""Order Takeout."" Nailed it. #MasterChefMaterial"
+209,1,"Spent an hour looking for my phone while talking on it. Mondays, am I right?"
+210,1,Nothing like a 7 AM meeting to make you question all your life choices. #MorningPerson
+211,1,"When your umbrella turns inside out in the rain, and you question your life decisions. #RainyDayBlues"
+212,1,Just spent 10 minutes looking for my glasses. On my face. How's your day going?
+213,1,Decided to go for a run. Made it to the end of the driveway. Close enough. #FitnessGoals
+214,1,Attending a three-hour meeting that could've been an email. Living the dream. #CorporateLife
+215,1,Accidentally liked a photo while stalking someone on Instagram. Smooth. #SocialMediaSkills
+216,1,"When autocorrect changes ""Friday"" to ""fried egg,"" and you question your phone's life choices."
+217,1,Tried to be an adult today. Gave up and had cereal for dinner. #AdultingFail
+218,1,Just got a new plant. Odds of keeping it alive? Slim to none. #PlantParenting
+219,1,Spent an hour organizing my closet. Still can't find my favorite socks. #ClosetChronicles
+220,1,Went to the gym and spent more time taking selfies than working out. #FitnessGuru
+221,1,Accidentally sent a text to the wrong person. Awkward level: Expert. #TextingFails
+222,1,Decided to start a diet. Ate a salad. Craving pizza now. #HealthyLiving
+223,1,Thought I had a great idea in the shower. Forgot it as soon as I got out. #ShowerThoughts
+224,1,Just finished a 500-piece puzzle. Only took three weeks and one mental breakdown. #PuzzlePro
+225,1,Spent an hour making a to-do list. Ignored it and took a nap instead. #ProductivityGoals
+226,1,Started a new book. Finished the first chapter. Lost interest. #BookWormProblems
+227,1,When you say you're on a diet but order dessert. #DietFail
+228,1,"Accidentally used toothpaste instead of face wash. Minty fresh complexion, anyone?"
+229,1,Decided to clean the house. Found old snacks instead. #CleaningDistractions
+230,1,Bought a plant to brighten up the room. It's now a decorative dead twig. #PlantParentFail
+231,1,Spent an hour choosing a movie on Netflix. Ended up watching cat videos on YouTube. #MovieNightFail
+232,1,Thought about going to the gym. Ate a donut instead. #FitnessJourney
+233,1,Decided to be productive. Rearranged my furniture and called it a day. #ProductivityQueen
+234,1,Accidentally wore two different shoes to work. Fashion statement or a cry for help? #FashionFail
+235,1,Spent an hour crafting the perfect tweet. Got no likes. #TwitterFails
+236,1,Thought I had a witty comeback. Ended up stuttering. #QuickThinkingFail
+237,1,"Accidentally replied ""you too"" to the waiter who said, ""Enjoy your meal."" Smooth."
+238,1,Spent an hour making a playlist. Skipped every song. #MusicFail
+239,1,Decided to start a journal. Wrote one entry. Forgot about it. #JournalingGoals
+240,1,Thought I could do a handstand. Ended up doing a somersault. #FitnessFail
+241,1,Tried a new workout routine. It lasted five minutes. #FitnessJunkie
+242,1,Spent an hour choosing an outfit. Ended up wearing pajamas. #FashionistaLife
+243,1,Accidentally liked an ex's photo. Instant regret. #SocialMediaDrama
+244,1,Decided to cook a fancy dinner. Burnt the pasta. #MasterChefWannabe
+245,1,Spent an hour reading reviews before choosing a restaurant. Still got food poisoning. #DiningDisaster
+246,1,Thought I could multitask. Couldn't even handle one task. #MultitaskingFail
+247,1,Accidentally sent a message meant for a friend to my boss. Awkward level: Expert.
+248,1,Decided to try a new hairstyle. Ended up looking like a pineapple. #HairFail
+249,1,Spent an hour searching for my phone while talking on it. #PhoneSearchFail
+250,1,Thought I could parallel park. Created a traffic jam instead. #DrivingDrama
+251,1,Accidentally used salt instead of sugar in my coffee. Monday vibes. #MorningBlues
+252,1,Decided to be spontaneous. Regretted it immediately. #SpontaneityFail
+253,1,Spent an hour on makeup. Still looked like a raccoon. #MakeupFail
+254,1,Thought I could dance. Embarrassed myself. #DanceFail
+255,1,Just spent an hour reading motivational quotes. Still not motivated. #MotivationFail
+256,1,Tried to be a morning person. Gave up and hit the snooze button. #MorningGoals
+257,1,Decided to adult today. Ended up binge-watching cartoons. #AdultingFail
+258,1,Thought I could do a cartwheel. Rolled on the floor instead. #GymnasticsGuru
+259,1,Spent an hour making a shopping list. Forgot the list at home. #GroceryShoppingFail
+260,1,"Accidentally wore sunglasses indoors. Claiming it's my new ""cool"" look. #FashionistaFail"
+261,1,Decided to be a chef. Burnt the toast. #KitchenDisaster
+262,1,Thought I found a shortcut. Ended up lost. #NavigationFail
+263,1,Spent an hour organizing my apps. Still can't find anything. #PhoneOrganizationFail
+264,1,Accidentally liked a tweet from 2015. Stalking level: Expert. #TwitterStalker
+265,1,Tried to be a morning person. Realized mornings are overrated. #MorningStruggles
+266,1,Decided to be productive. Fell into a YouTube rabbit hole instead. #ProductivityPro
+267,1,Thought I could sing in the shower. Neighbors disagree. #ShowerSeranadeFail
+268,1,Spent an hour looking for my keys. Found them in the fridge. #KeySearchFail
+269,1,Accidentally sent a text to my mom instead of my friend. Awkward family conversations. #TextingOops
+270,1,Decided to be a minimalist. Bought more stuff. #MinimalismFail
+271,1,Thought I could juggle. Dropped everything. #JugglingFail
+272,1,Just had a salad for dinner. Now craving a burger. #HealthyEatingFail
+273,1,Spent an hour choosing an Instagram filter. Still not Insta-famous. #SocialMediaStruggles
+274,1,Accidentally joined a group video call in my pajamas. Zoom meetings are a trap. #VideoCallOops
+275,1,Decided to be adventurous. Got lost in my own neighborhood. #AdventureGoneWrong
+276,1,"Thought I could be a morning person. Reality check: it's 2 PM, and I'm still in bed. #MorningMishaps"
+277,1,Spent an hour organizing my bookmarks. Never opened any of them. #BookmarkGoals
+278,1,Accidentally liked a post from someone I'm stalking. Stealth level: Zero. #StalkerProblems
+279,1,Decided to be a plant parent. Killed the succulent. #PlantParentingFail
+280,1,Thought I could fix my own car. Now it's making strange noises. #DIYDisaster
+281,1,Spent an hour choosing a movie. Watched the same one for the tenth time. #MovieNightRut
+282,1,"Accidentally replied ""lol"" to bad news. Awkward level: Infinity. #TextingFails"
+283,1,Decided to be a fashion icon. Ended up looking like a fashion victim. #FashionistaFail
+284,1,"Tried to be a morning person. Snooze button: 1, Me: 0. #MorningStruggles"
+285,1,Spent an hour editing a selfie. Still not Instagram-worthy. #SelfieFail
+286,1,Thought I could cook a gourmet meal. Ended up ordering takeout. #CookingAdventures
+287,1,"Accidentally liked an ex's post. Unliked it, but the damage was done. #SocialMediaDrama"
+288,1,Decided to be a DIY expert. Glued my fingers together. #CraftingFail
+289,1,Spent an hour cleaning. Found snacks instead. #CleaningDistractions
+290,1,"Accidentally sent a text meant for my dog to my boss. ""Good boy"" doesn't work in a professional setting. #TextingOops"
+291,1,Thought I could be a stand-up comedian. Only got awkward stares. #ComedyFail
+292,1,Just had a brilliant idea in the shower. Forgot it before I could write it down. #ShowerThoughts
+293,1,Decided to be a fitness guru. Ate a donut mid-workout. #FitnessGoals
+294,1,Spent an hour choosing an outfit. Ended up wearing the same thing as yesterday. #FashionFail
+295,0,Celebrating the success of Japan's Prime Minister Shinzo Abe in obtaining the mandate he sought. #Leadership #Success
+296,0,"Stocked up on essentials, including tampons! #Preparedness #SelfCare"
+297,0,Discussing NB Power's record number of outages with @cbcjones. #Infrastructure #Transparency
+298,0,Dreaming of a world where global warming is just a myth. #ClimateChange #RealityCheck
+299,0,"@kennisibueno, you truly are like a son to me. #FamilyLove #Blessed"
+300,0,A 160-question test in the morning – a great opportunity for self-assessment. #Education #ChallengeAccepted
+301,0,Sketching fresh produce from Spudshed for both eating and drawing. #ArtisticExpression #HealthyLiving
+302,0,Excited about @JustinTrudeau's involvement in supporting our national hockey. #HockeyNation #Leadership
+303,0,Confirming if this is what success looks like. #AchievementUnlocked #Confirmation
+304,0,Checking if @CNN and @donlemon have spoken with #ZemirBegic's family. #NewsCoverage #Justice
+305,0,"Embracing the fitness motivation mantra: ""Let's all do only squats and deadlifts until we hurt ourselves."" #FitnessGoals #Motivation"
+306,0,Exploring the news of Thailand crown prince's wife resigning from royalty on #BBCNews. #RoyaltyNews #Thailand
+307,0,First photos of the Infiniti Vision GT concept have emerged. #AutoNews #Innovation
+308,0,Discussing the prevalence of racism in liberal Democrats with @THEHermanCain. #PoliticalDiscourse #RacismDebate
+309,0,Reflecting on the profound statement of a topless feminist looking for love. #LoveIsLove #Perspective
+310,0,Contemplating the irony of flossing and eating right after. #DentalHygiene #HealthyChoices
+311,0,Waiting without reasons given – some things are just unexpected. #Patience #LifeSurprises
+312,0,Considering the possibilities of adapting Snoopy comics for academic paper submission. #CreativeThinking #AcademicLife
+313,0,Expressing gratitude for the awesome support on our #Instagram page. #SocialMediaAppreciation #Thankful
+314,0,Adapting the Snoopy comic for academic paper submission. #CreativeIdeas #AcademicLife
+315,0,Voicemail from a seat neighbor wondering where I am – the joys of live events. #LiveExperience #Connections
+316,0,Wishing myself a happy new year! #NewBeginnings #PersonalCelebration
+317,0,Anticipating Georgia's nativity play in the morning with @nfullers98. #HolidayTradition #Excitement
+318,0,Sanjay Dutt's request for parole to meet his wife – a reflection on the complexities of relationships. #Perspective #LifeChallenges
+319,0,"Exploring the beauty of a rose, even when spat upon. #BeautyInImperfection #Symbolism"
+320,0,Appreciating the convenience of not upgrading iOS and keeping many pictures. #TechConvenience #iPhone
+321,0,"Half the world is starving, the other half struggling to lose weight – a stark reality. #GlobalAwareness #HealthIssues"
+322,0,"Reflecting on the quote ""Don't regret anything that made you smile."" #PositiveThinking #Reflection"
+323,0,Recognizing winter's arrival with a humorous image. #WinterHumor #SeasonalChanges
+324,0,Hoping for another big win for VOLS basketball. #SportsEnthusiast #TeamSpirit
+325,0,"Contemplating the essence of a rose, even when spat upon. #Symbolism #Contemplation"
+326,0,"Acknowledging the need to hit the gym, even with the distraction of unwrapped presents. #FitnessGoals #HolidayPreparation"
+327,0,"You can spit on a rose, but it's still a rose. #Symbolism #Appreciation"
+328,0,Expressing thanks for the awesome support on our #Instagram page. #SocialMediaAppreciation #Thankful
+329,0,Alerting followers to a change in music on @WHATCHAKNO. #MusicAlert #RadioListening
+330,0,Reflecting on the beauty of diversity and the need for human rights in global relations. #Equality #HumanRights
+331,0,Embracing the joy of learning and excited about writing my math final. #Education #Excitement
+332,0,"Finally getting around to that project I've been putting off. Procrastination, no more! #Productivity #SelfImprovement"
+333,0,Grateful for the simple joy of a hot cup of tea on a chilly evening. #TeaTime #CozyMoments
+334,0,Embracing the holiday spirit with a festive playlist and hot cocoa. :ChristmasTree::HotBeverage: #HolidayCheer #FestiveVibes
+335,0,Reflecting on the joys of spontaneous road trips and the freedom of the open road. :OncomingAutomobile: #RoadTrip #AdventureTime
+336,1,Attempted to embrace adulthood by cooking a gourmet meal. Ended up ordering pizza. :pizza::woman_shrugging: #MasterChefFail
+337,1,Tried to impress everyone with my dance moves. Tripped over my own feet. Nailed it. :dancer::clumsy: #DanceFloorFail
+338,1,Decided to conquer my fear of heights. Climbed one step of the ladder. Mission accomplished. :ladder::woman_shrugging: #FearConquered
+339,1,Thought I could become a morning person. Slept through three alarms. Maybe next year. :alarm_clock::sleeping_accommodation: #MorningFail
+340,1,Attempting to be an intellectual by reading a complex book. Googled half the words. :book::thinking_face: #BookwormWannabe
+341,1,"Tried to be eco-friendly by biking to work. Got a flat tire. Mother Nature, 1 - Me, 0. :bike::flat_shoe: #GreenCommuteFail"
+342,1,Decided to organize my closet. Ended up buried in a pile of clothes. :shirt::woman_shrugging: #ClosetChaos
+343,1,Attempted a DIY home improvement project. Accidentally painted the cat. :paintbrush::cat: #HomeImprovementFails
+344,1,Thought I could meditate to reduce stress. Fell asleep instead. Zen level: nap time. :meditation::sleeping_accommodation: #StressReliefFail
+345,1,Decided to embrace my artistic side. Can't draw a stick figure. Stick figures are overrated anyway. :art::woman_shrugging: #ArtisticFail
+346,1,"Tried to be a fitness guru. Got stuck in a yoga pose. Help, I've become a pretzel! :person_in_lotus_position::pretzel: #YogaFail"
+347,1,Attempted to be a tech genius. Accidentally deleted all my files. Who needs memories anyway? :computer::woman_shrugging: #TechWoes
+348,1,Decided to be a daredevil and try a new food. Mild salsa felt like a volcano eruption. :hot_pepper::exploding_head: #FoodieAdventures
+349,1,Thought I could be productive on a Sunday. Binged a whole season of my favorite show instead. :tv::woman_shrugging: #LazySunday
+350,1,Tried to impress my crush with a witty joke. Ended up with awkward silence. Sense of humor level: questionable. :joy::expressionless: #JokeFail
+351,1,Attempted to be a social butterfly. Spent an hour talking to a plant. It's a great listener. :seedling::speech_balloon: #SocialSkillsFail
+352,1,"Decided to be a fashionista. Walked out with mismatched socks. Sock game strong, fashion game weak. :socks::woman_shrugging: #FashionFail"
+353,1,Thought I could conquer my fear of public speaking. Froze on stage. Cue awkward silence. :microphone::flushed: #PublicSpeakingAnxiety
+354,1,Tried to be an early riser. Slept through sunrise. Who needs Vitamin D anyway? :sunrise::sleeping_accommodation: #EarlyRiserFail
+355,1,"Attempted to be a minimalist. Bought a dozen more storage bins. Clutter, 1 - Minimalism, 0. :shopping_bags::woman_shrugging: #MinimalistFail"
+356,1,"Decided to be a DIY beauty guru. Ended up with a face mask that won't come off. Hello, superhero look! :woman_facepalming::mask: #BeautyFail"
+357,1,Thought I could master a foreign language. Can barely order food in my native language. :globe_with_meridians::woman_shrugging: #LanguageLearningFail
+358,1,"Tried to be a morning person. Accidentally set the coffee maker to brew at midnight. Coffee at midnight, why not? :coffee::alarm_clock: #MorningCaffeineFix"
+359,1,"Attempted to adult by fixing a leaky faucet. Flooded the kitchen. Plumbing, 1 - Me, 0. :droplet::woman_facepalming: #PlumbingDisaster"
+360,1,Decided to be a DIY hairstylist. Ended up with a new hairstyle: bedhead chic. :scissors::woman_shrugging: #HaircutFail
+361,1,Thought I could be a plant whisperer. Killed a cactus. How is that even possible? :cactus::woman_shrugging: #PlantParentingFail
+362,1,Tried to be a tech-savvy grandparent. Accidentally posted a selfie on Facebook. #GrandmaTechFail
+363,1,Attempted to be a master chef. Burnt water while boiling it. Who knew water could burn? :fire::woman_shrugging: #CookingFails
+364,1,Decided to embrace my adventurous side. Got lost in a grocery store. Adventure level: expert. :shopping_cart::woman_facepalming: #GroceryStoreAdventure
+365,1,"Thought I could master the art of parallel parking. Ended up perpendicular. Close enough, right? :car::woman_shrugging: #ParkingFail"
+366,1,"Tried to be a DIY expert. Glued my phone to my hand. Hello, hands-free technology! :adhesive_bandage::iphone: #DIYTechFail"
+367,1,Attempted to be a fitness guru. Bought a treadmill. Now using it as a clothes hanger. :treadmill::shirt: #FitnessEquipmentFail
+368,1,"Decided to be a chef. Burnt water while making tea. Apparently, I can't even boil water correctly. :fire::tea: #TeaTimeFails"
+369,1,Thought I could be a plant parent. Watered my succulent with coffee. It's now a caffeinated succulent. :coffee::cactus: #CaffeinatedSucculent
+370,1,"Tried to be a DIY expert. Painted a wall and myself. Artistic expression, right? :paintbrush::woman_shrugging: #DIYArtFail"
+371,1,Attempted to adult and fix a leaky faucet. Ended up with a fountain in my kitchen. :droplet::woman_facepalming: #PlumbingFails
+372,1,Decided to be a tech guru. Accidentally texted my boss an emoji instead of a report. :speech_balloon::grimacing: #TechGuruFail
+373,1,Thought I could be a morning person. Realized I'm more of a brunch person. :alarm_clock::fried_egg: #MorningPersonFail
+374,1,Tried to be a fitness guru. Did one push-up. Celebrated with a bag of chips. :potato::weight_lifter: #FitnessGoals
+375,1,"Attempted to be a DIY expert. Fixed a leaky faucet with duct tape. It's holding up, for now. :adhesive_tape::woman_shrugging: #DIYPlumbing"
+376,1,Decided to be a tech genius. Spent an hour looking for my phone while holding it. :iphone::woman_shrugging: #TechGeniusFail
+377,1,"Thought I could be a plant parent. Named my plant, forgot its name. It's now Planty McPlantface. :seedling::woman_shrugging: #PlantParenting"
+378,1,Tried to be a morning person. Hit snooze 10 times. Mornings can try again tomorrow. :alarm_clock::sleeping_accommodation: #SnoozeButtonChampion
+379,1,Attempted to adult by assembling furniture. Ended up with a chair that resembles modern art. :chair::art: #FurnitureAssemblyFail
+380,1,"Decided to be a fashionista. Wore inside-out jeans to work. It's a new trend, right? :jeans::woman_shrugging: #FashionForwardFail"
+381,1,"Thought I could be a tech expert. Accidentally set my wallpaper to a selfie. Self-love, right? :iphone::selfie: #TechExpertFail"
+382,1,Tried to be a fitness guru. Bought a gym membership. Spent more time in the snack bar than the gym. :candy::weight_lifter: #GymMembershipFail
+383,1,Attempted to be a DIY expert. Built a bookshelf. It collapsed. Books everywhere. :book::construction: #DIYBookshelfFail
+384,1,Decided to be a chef. Burnt microwave popcorn. The kitchen now smells like a failed movie night. :popcorn::fire: #KitchenFail
+385,1,Thought I could be a plant parent. Talked to my fern. It didn't respond. Ferns are such introverts. :seedling::speech_balloon: #PlantParentingReality
+386,1,"Tried to be a morning person. Accidentally set the coffee maker to brew at midnight. Coffee at midnight, why not? :coffee::alarm_clock: #MidnightCaffeineFix"
+387,1,"Attempted to adult by fixing a leaky faucet. Flooded the bathroom. Plumbing, 1 - Me, 0. :droplet::woman_facepalming: #PlumbingCrisis"
+388,1,Decided to be a tech guru. Accidentally sent a voice message while talking to myself. :microphone::woman_shrugging: #TechBlunder
+389,1,Thought I could be a fitness guru. Bought a yoga mat. Now using it as a picnic blanket. :person_in_lotus_position::plate_with_cutlery: #YogaMatFail
+390,1,Tried to be a morning person. Slept through sunrise. Who needs Vitamin D anyway? :sunrise::sleeping_accommodation: #MorningSunriseFail
+391,1,Attempted to be a DIY expert. Fixed a leaky faucet with bubble gum. It's holding up surprisingly well. :lollipop::woman_shrugging: #DIYPlumbingWin
+392,1,"That moment when your friend forgets to mention they're in town. Real friendship, right? :face_screaming_in_fear: #TrueFriend"
+393,1,"Expressing deep, sincere emotions in ALL CAPS, then realizing the caps lock was on. Oops! ^_^ #EmotionalTypingFail"
+394,1,"Planning to be productive, but then opening Tumblr and saying goodbye to productivity. #ProductivityFail #TumblrDistractions"
+395,1,Accidentally wore my shirt inside out today. Fashion-forward or just forgetful? #StyleIcon
+396,1,Spent an hour searching for my glasses. Found them on my head. #BlindMoment
+397,1,Decided to be a master chef. Burnt the water. #CookingFail
+398,1,Thought I could dance. Tripped over my own feet. #DanceMovesGoneWrong
+399,1,Accidentally sent a text to my boss instead of my friend. Awkward level: Expert. #TextingOops
+400,1,Decided to be an early bird. Overslept. #MorningFail
+401,1,Spent an hour deciding what to watch on Netflix. Ended up rewatching The Office. #NetflixStruggles
+402,1,Thought I could DIY. Glued my fingers together. #CraftingFail
+403,1,Spent an hour organizing my closet. Can't find anything now. #OrganizationFail
+404,1,Accidentally joined a Zoom call in my pajamas. Video call nightmares. #VideoCallOops
+405,1,Decided to be a plant parent. Killed the cactus. #PlantParentingFail
+406,1,Tried to be a morning person. Failed. #MorningStruggles
+407,1,Spent an hour choosing a filter for my selfie. Still not Insta-famous. #SelfieStruggles
+408,1,Accidentally sent a message to the wrong group chat. Group chat drama incoming. #TextingOops
+409,1,Spent an hour editing a tweet. Still got zero likes. #SocialMediaStruggles
+410,1,Decided to be a gym enthusiast. Forgot my gym shoes. #FitnessFail
+411,1,Decided to be a chef. Burnt the salad. #KitchenDisaster
+412,1,Decided to be a morning person. Gave up and hit the snooze button. #MorningGoals
+413,1,Decided to be a DIY expert. Glued my fingers together. #DIYDisaster
+414,0,Being stuck in traffic is my favorite way to start the day. #TrafficJoy
+415,0,Accidentally used salt instead of sugar in my coffee. Delicious. #MorningBrew
+416,0,Running into your ex at the grocery store and pretending to be super into buying kale. #HealthyChoices
+417,0,So thrilled to spend my Friday night grading papers. #TeacherLife #LivingTheDream
+418,0,Watching the snow fall and contemplating the meaning of life. #DeepThoughts
+419,0,Finally got around to reading that gripping new ebook. #Bookworm #MustRead
+420,0,"Not gonna lie, I love it when the alarm goes off early on weekends. #MorningPerson"
+421,0,"Wow, a whole year since your last tweet! You're really killing it on Twitter. #SocialMediaGuru"
+422,0,Three tests and two dance performances tomorrow! What's a weekend without a little challenge? #BringItOn
+423,0,Just had a heartwarming conversation with customer service. #Sarcasm
+424,0,"Marxist Christmas, because nothing says holiday cheer like economic theories. #FestiveIdeas"
+425,0,"Supporting Milan just for the spouse. True love, right? #RelationshipGoals"
+426,0,Let's hope Nene's injury isn't too serious. Fingers crossed for a quick recovery. #GetWellSoon
+427,0,Just hit peak productivity! (Said no one ever...) #ProcrastinationQueen
+428,0,"All I wanted was to see you, and now I'm feeling all the feels. #MissYou"
+429,0,"""I can see it in your eyes..."" - A classic line or just an excuse for avoiding eye contact? #DeepThoughts"
+430,0,Christmas music on the stair master – because holiday fitness is the best fitness. #Fitmas
+431,0,"Cheap and expensive, because balance is key. #LifeLessons"
+432,0,Oversleeping is my superpower. #SleepChampion
+433,0,"Noticing how the pop-up ""save password"" defies logic. #TechMysteries"
+434,0,"Historians collecting facts about wrong abuse, because accuracy is everything. #FactCheck"
+435,0,Waiting 30 days for an immediate joiner – corporate logic at its finest. #HRPuzzles
+436,0,Smelling the turkey already! #ThanksgivingVibes
+437,0,Surprise Tetanus shot – just what I always wanted. #BestGiftEver
+438,0,Shouldn't you all be in school? Just a thought. #WhereAreYourBooks
+439,0,Feeling blessed by the American justice system. #JusticeForAll
+440,0,Appalling service from @FGW again. Can't wait for those fare hikes! #Sarcasm
+441,0,Why turn everything into a disaster? Let's cherish our humanity. #PositiveVibes
+442,0,A selfie stick for Christmas – because one can never have too many awkward photos. #SelfieGameStrong
+443,0,Tiger Woods as a global brand ambassador – because golf expertise and global branding go hand in hand. #GolfWorld
+444,0,Waking up early in the morning – truly a unique and groundbreaking experience. #EarlyBird
+445,0,Wrapping up a commercial and heading to Loon Mountain Resort. #BusyLife
+446,0,"You're still amazing, @Missguided! Looking back on Saturday night like... #GoodTimes"
+447,0,"If I had to choose between Winnipeg and the Leafs winning the cup, it's an easy decision. #LeafsNation"
+448,0,Shoutout to the Leafs for keeping the disappointment alive. #TMLForever
+449,0,Nothing like a Saturday night spent reminiscing about cheating in pong. #GoodTimes
+450,0,"Watching the clock, waiting for the weekend. #FridayFeeling"
+451,0,Sipping tea and appreciating abstract art. #TeaTime #ArtLover
+452,0,Living for that feeling when the alarm goes off early on a Saturday. #WeekendJoy
+453,0,Grateful for a heartwarming conversation with customer service. #Sarcasm
+454,0,Just wrapped up a commercial shoot and ready for some relaxation. #WorkHardPlayHard
+455,0,Relishing the sweet victory of a surprise Tetanus shot. #HealthWin
+456,0,"Looking back on the weekend like... oh wait, it's only Friday. #TimeFlies"
+457,0,Feeling the love from my friends – Christmas came early this year! #Blessed
+458,0,Getting into the holiday spirit with Christmas music on the treadmill. #FestiveFitness
+459,0,"Another day, another opportunity to be amazed by the logic of corporate policies. #WorkLife"
+460,0,So proud of my artwork – time to share it with the world! #ArtisticSoul
+461,0,Catching up on that gripping ebook everyone's talking about. #BookClub
+462,0,Celebrating the weekend with a surprise Tetanus shot. #WeekendVibes
+463,0,Because oversleeping is the best way to start the day. #SleepGoals
+464,0,"Still wondering why ""save password"" and logic don't seem to go hand in hand. #TechMysteries"
+465,0,Reflecting on a year of Twitter silence – truly a social media milestone. #TwitterMaster
+466,0,"Seriously, could my day get any better? #LivingTheDream"
+467,0,99.8° fever. Living the sick life. #SendHelp
+468,0,"Ah, the joy of round ligament pain. Pregnancy is a blast. #MomLife"
+469,0,"Great reporting, @MediaOutlet. Nothing like labeling someone as ""drug crazed."" #Journalism101"
+470,0,Just found out how much Russell Brand's mansion is worth. Such scum! #KeepingItClassy
+471,0,"Logic is an invention by the kuffar. Everything totally makes sense, right? #Sarcasm"
+472,0,Steven Gerrard leaving? My brilliant deduction skills tell me yes. #CaptainObvious
+473,0,"Well, he's basically an employee of the oil & gas sector. Makes perfect sense. #Logic101"
+474,0,Hanging out with my dog. #BestBuds
+475,0,"Sad music is the perfect cure for depression, obviously. #Not"
+476,0,"Still awake. Because sleep is overrated, right? #Insomniac"
+477,0,'Begin Again' is so realistic. Feels like I'm back in the '90s music business. #ThrowbackVibes
+478,0,Love my mom! #FamilyFirst
+479,0,"Some people just never listen. Oh well, life's lessons. #LearnTheHardWay"
+480,0,High school with a delusional dad on the internet? Nightmare material. #TeenProblems
+481,0,Finally opened that thing with a YouTube video. Thanks for the help! #TechWin
+482,0,Chocolate taste with Chunky Monkey – in a cup. Living the dream. #SweetTooth
+483,0,Fountain jumping in January? Sounds like a genius plan. #FreezingFun
+484,0,Surprised my coanchor hasn't nominated me for the worst list. Yet. #TVLife
+485,0,That's real cute. Seriously. #CutenessOverload
+486,0,Monsoon outside and classes all day. Perfect timing. #Sarcasm
+487,0,Late-night snuggles with my boy. #CozyNights
+488,0,Pizza and friends for life. #Goals
+489,0,In love with the cocoa. #SweetTooth
+490,0,"Sagittarius knows what they want, and they go big. #DreamBig"
+491,0,"Come on, lads, you're better than this shite! #TeamMotivation"
+492,0,"The ultimate ""How to"" book – you need this in your life. #MustRead"
+493,0,Christmas car wash? Yay! #FestiveCleaning
+494,0,Living till I'm 200? Sign me up! #Goals
+495,0,"Oh no, losing my voice and a mean cough. Best Christmas ever. #Sarcasm"
+496,0,Women getting hit on by married managers at Chick-fil-A – the irony. #Hypocrisy
+497,0,"Came into work at 8 for what? Three people in 45 minutes. Great call, Charlie. #WorkLife"
+498,0,White on white crime? Ribbon in the sky – non-existent. #FactCheck
+499,0,"U-Turn by AAP, affecting India's GDP? BJP logic. #PoliticalPuzzles"
+500,0,Thad followed me. Best day ever! #FanMoment
+501,0,Windy summit with floppity ears. Nature's wonders with Memphis. #OutdoorAdventures
+502,0,"Need to get up, but Sasha is too cute. #CatLove"
+503,0,Fucked them really badly – in Advanced Warfare. #GamerLife
+504,0,NYPD not cute. Citizens feel real safe. #NYPDMutiny
+505,0,Spin class with @annabelluxford – on the pull. Interested? #FitnessFun
+506,0,Harry is such a good person – heart hurting kind of good. #InternationalHarryStylesDay
+507,0,Ever wonder? Just RT. #DeepThoughts
+508,0,Normal people vs. what I see. @HaleyDinkel
+509,0,Review – it's a blast! #PositiveFeedback
+510,0,"@TawnyaCSmith, that sounds like soooo much fun! #Envious"
+511,0,Here's a list for the Coyotes to win a cup next year. #TeamSpirit
+512,0,NBA players supporting protests. Money donations coming. #SocialJustice
+513,0,"Hope you had a nice Christmas, @sommelierkeith. #HolidayCheers"
+514,0,Love hanging out with my dad. #FamilyTime
+515,0,This Friday lit. #WeekendVibes
+516,0,Looking forward to the new year. :D #NewBeginnings
+517,0,Life just keeps throwing surprises at me! #RollingWithThePunches
+518,0,100.2° fever. The joys of being a human furnace. #SickDays
+519,0,Round ligament pain is back for an encore. Cheers to pregnancy! #MomToBe
+520,0,"Stellar reporting, calling someone ""drug-crazed."" Because that's responsible journalism. #MediaFail"
+521,0,Russell Brand's mansion worth? Classy discussions as always. #KeepingItReal
+522,0,"Logic is an invention by the kuffar? Clearly, we live in a logical world. #LogicalWorld"
+523,0,Steven Gerrard leaving? My psychic abilities confirm it. #Predictions
+524,0,Hanging out with my dog - the real MVP. #DogLove
+525,0,Sad music cures depression – just ask my playlist. #MusicTherapy
+526,0,"Still awake because sleep is for the weak, right? #InsomniaLife"
+527,0,'Begin Again' takes me back to the '90s music biz. #NostalgiaTrip
+528,0,Love my mom! Shoutout to the real MVP. #MomAppreciation
+529,1,Trying to break my own record for how many times I can hit the snooze button in the morning. #WorldRecordAttempt
+530,1,"Oh, joy! Another Monday! Can't wait to embrace the endless possibilities of a brand new week. #MondayMotivation"
+531,1,"Lost my keys again. It's like a little daily adventure, just for fun. #MasterOfOrganization"
+532,1,"Love it when people use speakerphone in public places. I was dying to know your conversation, really. #PublicSpeaker"
+533,1,Nothing like a traffic jam to make you appreciate the beauty of a well-planned commute. #TrafficLove
+534,1,Just spilled coffee on my laptop. Great start to a productive day. #TechnologyLovesMe
+535,1,"Decided to start a new diet: eat everything in sight. So far, so good. #HealthyLiving"
+536,1,"Got another parking ticket. Clearly, the universe is testing my commitment to supporting the local government. #ParkingPro"
+537,1,"Woke up feeling so refreshed and ready to conquer the day. Just kidding, I need five more hours of sleep. #MorningPerson"
+538,1,Running late as usual. Who doesn't love the thrill of a last-minute sprint to the office? #FashionablyLate
+539,1,Nothing like a surprise meeting on a Friday afternoon. I was totally looking for ways to make my weekend longer. #WeekendJoy
+540,1,Just love it when autocorrect changes my words to something completely unrelated. It's like a game of literary roulette. #ThanksAutocorrect
+541,1,"Can't believe I forgot to set an alarm and slept through my important meeting. Because who needs job security, right? #ProfessionalSleeper"
+542,1,"Decided to tackle my inbox today. It's a beautiful mess, much like my life. #InboxZeroDreams"
+543,1,"Spent hours on a homemade meal, and the microwave decided it needed a snack too. #ChefLife"
+544,1,"Accidentally liked my crush's photo from two years ago. Smooth moves, master of subtlety. #SocialMediaExpert"
+545,1,"Oh, look, another DIY project. Because who needs to hire professionals when you can just wing it? #DIYExpert"
+546,1,"My computer decided to update right in the middle of an important presentation. Clearly, technology is my biggest fan. #PerfectTiming"
+547,1,"Poured cereal into the bowl, only to realize there's no milk. My life is a series of well-thought-out plans. #BreakfastFail"
+548,1,Nothing like a surprise pop quiz to make you appreciate the true meaning of spontaneity. #PopQuizGenius
+549,1,Loving the fact that my alarm didn't go off this morning. #BestStartToTheDayEver
+550,1,"Oh, fantastic! Another Monday. Can't wait for all the excitement. #MondayMotivation"
+551,1,"Thanks, universe, for the wonderful surprise of a flat tire. Truly blessed. #Grateful"
+552,1,Got a parking ticket! Just what I needed to make my day perfect. #LivingTheDream
+553,1,Lost my keys again. My life is a series of treasure hunts. #LostAndFound
+554,1,Brilliant! The coffee machine decided to break today. Who needs caffeine anyway? #NotMe
+555,1,"Oh, great! My computer crashed right in the middle of an important project. #PerfectTiming"
+556,1,"Just when I thought my day couldn't get any better, I spilled coffee all over my work. #Winning"
+557,1,Love it when autocorrect makes me look like a grammar genius. #SarcasmForDays
+558,1,Super excited to be stuck in traffic for the next hour. #TrafficJamJoy
+559,1,My favorite thing about technology is when it randomly decides to stop working. #TechWoes
+560,1,Perfect weather for forgetting my umbrella. Now I get to embrace the rain. #SoakedAndHappy
+561,1,Yay! Another meeting that could have been an email. #TimeWellSpent
+562,1,Just what I needed – a surprise visit from my in-laws. #FamilyLove
+563,1,Nothing like realizing you left your lunch at home when you're starving at work. #LunchtimeBlues
+564,1,Great news: I get to work late because of public transportation delays. #CommuteFun
+565,1,"Oh joy, my phone died, and I'm expecting an important call. #CommunicationBreakdown"
+566,1,Love it when autocorrect changes my message to something completely irrelevant. #TextingStruggles
+567,1,Nothing like discovering your favorite shirt has a mysterious stain on it. #FashionDisaster
+568,1,Excited to spend my evening on hold with customer service. #CustomerServiceWins
+569,1,Got a flat tire on my way to a job interview. Perfect timing! #CareerAdvancement
+570,1,Who needs sleep anyway? Just spent the night fixing a leaky faucet. #DIYExpert
+571,1,Love it when my computer freezes right before I save an important document. #LostWorkOfArt
+572,1,Today's goal: break the record for the number of times I can stub my toe. #ClumsyLife
+573,1,Nothing like waking up to find out your car got towed. #MorningSurprises
+574,1,"Spent hours cooking, and the meal turned out to be a disaster. #MasterChefMaterial"
+575,1,Just what I needed – my favorite show's season finale with a cliffhanger. Thanks for the emotional rollercoaster. #PerfectTiming
+576,1,"Nothing says ""great day"" like realizing I left my wallet at home when I'm already at the checkout. #ShoppingAdventure"
+577,1,Fantastic! The printer decided today was the day to run out of ink. #PrintFail
+578,1,"Oh joy, another round of software updates that will probably make my computer slower. #TechTuesday"
+579,1,So grateful for unexpected bills. It's not like I had plans for that money or anything. #FinancialBlessings
+580,1,"Lost my favorite pen. Clearly, the universe is testing my ability to adapt to change. #PenGate"
