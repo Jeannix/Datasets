@@ -1,0 +1,245 @@
+tweet_id,label,tweet
+1,1,"Wow, another day, another celebrity who suddenly cares about the environment. I'm sure it's totally not just for the PR."
+2,1,"Because nothing screams ""professional"" like sending emails with emoji-filled subject lines. 🤦‍♂️"
+3,1,"Yeah, because starting a comment with ""no offense"" totally makes the following insult okay."
+4,1,"I love how my phone updates just to slow down and become practically useless. Thanks, tech geniuses!"
+5,1,"Oh, great, another ""influencer"" selling miracle diet tea. Because that's definitely the secret to weight loss."
+6,1,It's truly shocking how buying the cheapest products results in poor quality. Who would've thought?
+7,1,"Yes, please tell me more about how you ""discovered"" this amazing restaurant that everyone has known about for years."
+8,1,Another inspirational quote from a billionaire about how money doesn't buy happiness. So relatable.
+9,1,Because I'm sure that the new management at my job will definitely listen to employee feedback this time around.
+10,1,"Oh, joy, another Hollywood remake of a classic movie. I'm sure it will be just as good as the original."
+11,1,Because adding glitter to everything really makes the world a better place.
+12,1,I can't believe that another politician broke their campaign promise. That's never happened before.
+13,1,"Wow, the latest social media challenge involves dangerous stunts. What could possibly go wrong?"
+14,1,Because the best way to show your love on Valentine's Day is definitely overpriced chocolates and flowers.
+15,1,"Oh, wonderful, another ""life hack"" that takes more time and effort than just doing things the normal way."
+16,1,"I love how ""limited-time offers"" are always available every time I visit the website."
+17,1,Another email from my boss outside of work hours. I'm so glad they respect my personal time.
+18,1,"Wow, another groundbreaking study proving that exercise and healthy eating are good for you. Shocking."
+19,1,Because nothing shows how much you care like a pre-written birthday message on Facebook.
+20,1,"Oh, great, another ""must-have"" gadget that will be obsolete in six months."
+21,1,"Oh, sure, let's trust the company that has been fined for data breaches with our personal information. What could possibly go wrong?"
+22,1,"Because clearly, the best way to solve a crisis is to ignore all expert advice and just hope for the best."
+23,1,"Yeah, I'm sure that multi-billion-dollar corporation really cares about the little guy."
+24,1,They said they'd listen to our feedback. I'm sure they meant it this time.
+25,1,"Because obviously, the most qualified person for the job is always the CEO's nephew."
+26,1,I'm sure the new policy changes will make our work environment so much better.
+27,1,"Of course, raising prices and cutting services is the best way to improve customer satisfaction."
+28,1,"Yes, let's believe that politician who has never lied before. Totally trustworthy."
+29,1,"Because nothing says ""we care about your health"" like junk food ads during a fitness program."
+30,1,"I'm sure those ""limited edition"" products will be available forever."
+31,1,Because the best way to address environmental issues is definitely through more paperwork and red tape.
+32,1,Let's all pretend that the latest celebrity endorsement actually makes the product better.
+33,1,"I'm sure the huge discount means they're just being generous, not trying to get rid of old stock."
+34,1,Because using the same password for everything is definitely a great security practice.
+35,1,"Oh, look, another ""scientific"" study funded by the industry it benefits. Must be totally unbiased."
+36,1,I'm so glad that the new app update removed all the features I actually used.
+37,1,"Because we all know that the more expensive the product, the better it works."
+38,1,"Let's all trust the tech company with our privacy, even though they've been caught selling data before."
+39,1,I'm sure the new fashion trend is completely practical for everyday wear.
+40,1,Because we definitely need more reality TV shows to showcase important social issues.
+41,1,"Wow, the government's latest ""solution"" really fixed everything overnight. Who knew it could be so easy?"
+42,1,Because who needs clean air and water when we can have more profit for corporations?
+43,1,I'm sure the tax cuts for the wealthy will trickle down to everyone else any day now.
+44,1,"Because clearly, the best time to announce a price hike is right after your customer satisfaction survey."
+45,1,"Oh, look, another miracle weight-loss product. I'm sure this one will work just as well as the last ten."
+46,1,"Because nothing says ""we value your privacy"" like mandatory data sharing."
+47,1,I'm sure the new traffic laws will totally reduce congestion and not just generate more fines.
+48,1,Because paying more for less service is exactly what everyone wants.
+49,1,Another groundbreaking app that does exactly what ten other apps already do. Revolutionary!
+50,1,Because who needs transparency in politics when we can just trust our leaders to do the right thing?
+51,1,I'm sure the latest diet fad is based on solid science and not just marketing hype.
+52,1,"Because clearly, the best way to improve education is to cut funding and increase testing."
+53,1,"Oh, great, another subscription service. Just what we all needed."
+54,1,"Because obviously, the best way to handle a crisis is to blame someone else."
+55,1,I'm sure the new corporate policies will definitely improve employee morale.
+56,1,Another influencer promoting a product they totally believe in and not just because they were paid to.
+57,1,"Because nothing says ""innovative"" like rebranding the same old product with a new name."
+58,1,"I'm sure the new ""green"" initiative is more about saving the planet than saving money."
+59,1,"Oh, look, another celebrity couple that will definitely stay together forever."
+60,1,Because the best way to show support is through a hashtag and a profile picture change.
+61,1,I bought that expensive gym membership a year ago. It's such a great place to store my unused workout clothes.
+62,1,His entire persona is a hand-me-down. Even his opinions are second-hand.
+63,1,Politics: where integrity goes to die.
+64,1,"Yeah, because comparing neuroscience to video games is exactly how we advance scientific understanding."
+65,1,"Oh, wonderful, another brilliant idea from our lawmakers to ensure nothing ever gets done."
+66,1,It's truly baffling how spiritual leaders can make more money than the average believer. I'm sure that's what all religious teachings intended.
+67,1,"My plant collection is thriving, mainly because I never actually water them."
+68,1,His public persona is just a patchwork quilt of recycled ideas and borrowed fame.
+69,1,"Oh yes, being a politician is such a noble and clean profession."
+70,1,"Because nothing says ""serious academic discourse"" like blending science with video game references."
+71,1,I'm sure the constant threat of budget cuts will really motivate politicians to work harder.
+72,1,It's so inspiring to see religious leaders living in luxury while preaching humility.
+73,1,"I've had that ""smart"" kitchen appliance for a year, and it's mainly been a counter decoration."
+74,1,His speeches are like a greatest hits album of political clichés.
+75,1,Politics: the one job where failure is often rewarded.
+76,1,Neuroscience classes should definitely include video game characters for better understanding.
+77,1,Brilliant idea: punish everyone until the government does its job.
+78,1,"I always thought religious leaders were supposed to live modestly, but six figures must be the new humble."
+79,1,My fitness tracker has become a very expensive bracelet. I've never actually used it for tracking.
+80,1,"His public service is more like public borrowing—from his father, the Tea Party, and even Ayn Rand."
+81,1,"College Freshman promises to be ""more cautious"" with his homework... just like he was ""cautious"" with his partying last night."
+82,1,"Oh, sure, that's one solved. Only 700,000 more problems to go. Piece of cake!"
+83,1,Amazing how some people can't see the irony in preaching open-mindedness while stereotyping others.
+84,1,"My healthcare plan is ""None."" It’s been working out great if you ignore the potential financial ruin."
+85,1,So 93 million lose coverage so 45 million might get it. Sounds like a flawless plan.
+86,1,It’s hilarious how fiscal responsibility turned into a crusade against socialism and abortion laws.
+87,1,"Because nothing says ""I've learned my lesson"" like a college freshman's promise to be more cautious."
+88,1,"Solving one issue at a time. Only 699,999 left. We're making progress, right?"
+89,1,Funny how people complain about generalizations while making the same mistake themselves.
+90,1,"My current healthcare plan is ""Hope nothing happens."" So far, so good."
+91,1,It's great that losing coverage for millions is the best way to help a fraction of that number.
+92,1,The movement for fiscal responsibility sure took a detour into the land of hypocrisy.
+93,1,College Freshman assures his teacher he'll be more responsible... starting tomorrow.
+94,1,"One down, hundreds of thousands to go. Easy peasy."
+95,1,Preaching open-mindedness while generalizing others. That's some top-tier irony.
+96,1,"My healthcare costs are minimal because my plan is ""Don't get sick."""
+97,1,Sacrificing millions' coverage for the chance to help others. Brilliant strategy.
+98,1,Fiscal responsibility morphed into an anti-socialism chant. Quite the evolution.
+99,1,"College Freshman vows to manage his time better, right after this all-nighter."
+100,1,"Solving problems one at a time. Just 699,999 more to go. No big deal."
+101,1,Always funny to see someone who's set for life lecture others about greed.
+102,1,"Yep, getting a good job is tough when your homeschooling teacher was also homeschooled."
+103,1,"Nice photo! Would’ve been better if it explained how Ryan ""cleaned"" already clean dishes for a photo-op."
+104,1,"We tried an inexperienced senator as president once, didn't work out. Let's try one with even less experience. Brilliant!"
+105,1,It's so impressive when someone claims to be the foremost expert in multiple fields. Almost believable.
+106,1,"Still can't believe we're teaching heliocentrism in schools. If geocentrism was good enough for Jesus, it should be good enough for us."
+107,1,Always amusing to hear millionaires lecture others about wealth and greed.
+108,1,Hard to excel in education and career when you're homeschooled by someone with the same limited background.
+109,1,"Would've been great if the photo mentioned that Ryan ""cleaned"" already clean dishes for his photo-op."
+110,1,Unproven first-term senator didn't work. Let's double down on inexperience. Makes total sense.
+111,1,"One person being the top expert in one field is impressive. Being the expert in four? Sure, totally believable."
+112,1,"Protesting heliocentrism teaching. Galileo's fraud, remember? Geocentrism was good enough for biblical times."
+113,1,Always ironic when the wealthy lecture the new rich on greed.
+114,1,Quality education is tough when your homeschooling comes from someone equally unqualified.
+115,1,That photo needed a caption about Ryan's spotless dishwashing photo-op.
+116,1,"Tried inexperienced leadership once, didn’t work. Trying even less experienced leadership now is genius."
+117,1,"Being the top expert in multiple fields is beyond impressive. Almost godlike, really."
+118,1,"Still protesting heliocentrism. Galileo was a fraud, right? Geocentrism should be our curriculum."
+119,1,Funny how those who've made it big love to criticize the next generation for wanting the same.
+120,1,Getting a good job sure is hard when your homeschool teacher had no formal education either.
+121,1,And? Even Republicans don't want current Republicans in Congress. Anti-incumbent rhetoric is just so telling.
+122,1,"But wait, bitcoins aren't real, right? So it's totally okay to steal them, just like pirating music and software. Makes perfect sense."
+123,1,It's totally fair to pay politicians exorbitant salaries so the wealthiest can keep dominating politics. The 1% need even more representation.
+124,1,"Clearly, the most important thing is to extract every bit of carbon and release it into the atmosphere. Environmental concerns? What are those?"
+125,1,"Surely, they'll release an ""In TFSM We Trust"" version. Or maybe ""Joseph Smith Lied""?"
+126,1,"Funny how you dismiss this guy's opinion for bias but fully accept the IPCC report. No bias there, right?"
+127,1,Even the Republican base is tired of the current Republicans. Anti-incumbent sentiment speaks volumes.
+128,1,"Bitcoins aren't real, so stealing them is totally fine. Just like pirating virtual stuff. No harm done!"
+129,1,Paying politicians minimum wage would just make the rich ones more powerful. Totally what we need.
+130,1,"Obviously, we need to get all the carbon out of the ground and into the air as fast as possible. What could go wrong?"
+131,1,"An ""In TFSM We Trust"" version would be great. Or maybe ""Joseph Smith Lied""?"
+132,1,It's hilarious how you dismiss this biased opinion but fully trust the IPCC. No double standards there.
+133,1,Even Republicans don't want the current ones in Congress. Anti-incumbent vibes are strong.
+134,1,"Bitcoins aren't real, so why is stealing them a problem? Just like pirating software. It's all virtual!"
+135,1,Paying politicians less would just let rich ones control everything. So glad we avoid that now.
+136,1,"We definitely need to accelerate carbon emissions. The atmosphere needs more, right?"
+137,1,"Can't wait for the ""In TFSM We Trust"" version. Or ""Joseph Smith Lied""?"
+138,1,So funny how you ignore this guy's bias but swallow the IPCC report whole. No bias at all!
+139,1,Republican base rejecting current Republicans says a lot. Anti-incumbent wave is real.
+140,1,"If bitcoins aren't real, stealing them is no big deal. Just like pirating music. Totally harmless!"
+141,1,I heard Al Gore stands to make thousands from his investments in energy-efficient air conditioners! What a windfall!
+142,1,"Because obviously, anyone who disagrees with you must be a bad person, right?"
+143,1,"With only two parties, why not just flip a giant coin for each election? Same outcome, less hassle."
+144,1,"If they really cared about debt, they wouldn't vote for someone who wants to increase military spending by $3 trillion."
+145,1,"The KochGangsters bought Wisconsin, so laws are just suggestions now."
+146,1,"Sure, taking the donation was poor judgment, but let's not go all Benghazi over it."
+147,1,Al Gore making thousands from his green investments? He must be laughing all the way to the bank.
+148,1,"Clearly, disagreeing with you means someone's a terrible person. No room for differing opinions."
+149,1,"With only two parties, flipping a coin for elections sounds just as effective."
+150,1,"Debt concern? Sure, let's vote for the candidate who wants to blow $3 trillion on the military."
+151,1,"The KochGangsters own Wisconsin, so they can ignore those pesky laws now."
+152,1,"Is returning the donation the right thing? Yes, but let's not make it a federal case."
+153,1,Al Gore's thousands from green investments must be earth-shattering.
+154,1,Disagree with you? Must be evil. Got it.
+155,1,Two-party system? Might as well use a coin toss to decide elections.
+156,1,Truly concerned about debt? Then why support a $3 trillion military spender?
+157,1,"KochGangsters run Wisconsin, so legalities are just formalities."
+158,1,"Taking the donation was bad, but let's not create a scandal out of it."
+159,1,Al Gore's thousands from green tech must be revolutionary.
+160,1,Different viewpoint? Clearly a bad person.
+161,1,All the more reason to cut billions from food stamps. Those freeloading starving seniors need to learn self-reliance.
+162,1,"Imagine if it was a man his age chasing after 17-year-old girls with substance abuse problems. Totally acceptable, right?"
+163,1,The ACA website is 1000 times better than the Republican IDontCare.gov healthcare site.
+164,1,"""...the villagers hid the best they could and hoped the terror would pass them by. Just like gun control advocates, hiding and hoping someone else will protect them."" Nailed me as a pacifist. /s"
+165,1,"I'd love to celebrate him for this, but I'd need a Google+ account. How tragic."
+166,1,Probably true for a society where women are cloistered: freedom to leave the house means more shopping and lattes at Starbucks.
+167,1,Cutting billions from food stamps is genius. Starving seniors will finally stop freeloading.
+168,1,Imagine the outrage if it was a man his age going after teenage girls with substance abuse issues.
+169,1,ACA website vs. Republican IDontCare.gov? No contest.
+170,1,"""...the villagers hid, hoping the terror would pass. Like gun control advocates, relying on others for protection."" Pacifist alert! /s"
+171,1,Celebrating him requires a Google+ account? That's just too much to ask.
+172,1,"In a cloistered society, giving women freedom surely leads to more shopping and lattes. Priorities!"
+173,1,Cutting food stamps is perfect. Starving seniors need to fend for themselves.
+174,1,Imagine the double standards if it was a man his age preying on troubled teenage girls.
+175,1,ACA website wins hands down over Republican healthcare efforts.
+176,1,"""...villagers hiding, hoping for safety. Like gun control advocates expecting protection from others."" Spot on. /s"
+177,1,Need a Google+ account to celebrate him? Hard pass.
+178,1,Freedom for cloistered women means an explosion in shopping and latte consumption. Clearly.
+179,1,Cutting billions from food stamps will teach those starving seniors a lesson.
+180,1,Imagine the hypocrisy if an older man targeted young girls with substance issues.
+181,1,It's so heartwarming to see one lying president council another on the art of deception.
+182,1,"Does anyone actually take the Slate article seriously? If so, The Onion has some groundbreaking journalism for you."
+183,1,They're voting for the constituents that matter: the ones with deep pockets. Money talks; votes walk.
+184,1,"Security measures that treat users like they're too dumb to avoid malware, while conveniently serving other interests. How thoughtful."
+185,1,"Bet the GOP won't try to repeal the Patriot Act 42 times. Priorities, right?"
+186,1,What a terrible article. Let's ignore the police state and blame Wall Street instead. Genius logic.
+187,1,It's heartwarming to see one lying president advising another on honesty.
+188,1,"Seriously, does anyone buy into the Slate article? Maybe The Onion is more your speed."
+189,1,They're just voting for the money. Who cares about actual constituents?
+190,1,"Security measures that treat users like morons, all while serving other agendas. So considerate."
+191,1,GOP won't waste time repealing the Patriot Act multiple times. They have more important things to do.
+192,1,"Such a bad article. Blame Wall Street, ignore the real issues. Brilliant analysis."
+193,1,It's amazing to see presidents sharing their expertise on honesty.
+194,1,Does anyone fall for the Slate article? Maybe you'll enjoy some Onion news too.
+195,1,"They vote for the money, not the people. Money talks louder than votes."
+196,1,"Security measures for your own good, because downloading malware is beyond your capabilities. How thoughtful."
+197,1,GOP won't bother repealing the Patriot Act repeatedly. They have more pressing matters.
+198,1,"What a gem of an article. Blame Wall Street, ignore everything else. Genius strategy."
+199,1,It's touching to see presidents exchanging tips on truthfulness.
+200,1,Does anyone actually read the Slate article? The Onion might be more your style.
+201,1,Your congressmen don't have your back; they have you by the neck.
+202,1,"Let me fix that for them: ""If true, these accusations would be some of the funniest war crimes since 2001."""
+203,1,"Turn that into a drinking game. Every time he says ""conversation,"" take a shot. Alcohol poisoning guaranteed!"
+204,1,"Ah, Texas, the state that got a $75 billion bailout during the S&L crisis. Fiscal responsibility at its finest."
+205,1,The inventor of basic coverage in Massachusetts for all should definitely run for President. Brilliant idea.
+206,1,"This... this has to be a joke, right? Please tell me this website is a subsidiary of The Onion. Please?"
+207,1,"Your congressmen are such caring individuals, always looking out for your best interests."
+208,1,"Let's rephrase that: ""If true, these accusations would be the best comedy since 2001."""
+209,1,"Drinking game idea: take a shot every time he says ""conversation."" A guaranteed way to forget what's being said."
+210,1,"Ah, Texas, the state that got bailed out big time during the S&L crisis. Clearly, they've got it all figured out."
+211,1,The genius who brought basic coverage to Massachusetts should definitely aim for the White House. It's a no-brainer.
+212,1,"This can't be serious, right? Is this website The Onion's long-lost cousin?"
+213,1,Congressmen: always looking out for your interests... or maybe just their own.
+214,1,"""If true, these accusations would make great bedtime stories since 2001."""
+215,1,"Drinking game suggestion: take a shot every time he says ""conversation."" You'll need a liver transplant."
+216,1,"Ah, Texas, the state that got a $75 billion handout. Responsible budgeting at its finest."
+217,1,The mastermind behind basic coverage in Massachusetts would make a stellar president. Can't argue with success.
+218,1,"This website must be a joke, right? Is it April Fools' every day here?"
+219,1,"Your congressmen are truly selfless, always thinking about how to improve your lives... or not."
+220,1,"""If true, these accusations would be the greatest comedy show since 2001."""
+221,1,"Yeah, because private ownership magically grants deep knowledge of everything overnight, right?"
+222,1,"Still waiting for them to figure out how to backtrack on that Southern Strategy. Maybe in a few decades, they'll have a plan for climate change too."
+223,1,"And that legendary, pro-life Navy SEAL hero's name? None other than Albert Einstein."
+224,1,"Common attributes indeed. Proud to be an American, for sure."
+225,1,Democrats want everyone to be owned by the State. How generous of them.
+226,1,"That's it, I'm packing my bags for the moon. Earth's too crazy for me."
+227,1,Private ownership: the secret to instant expertise in everything agriculture-related.
+228,1,Backtracking on strategies and saving the planet? Give them a few more decades.
+229,1,"A pro-life, patriotic Navy SEAL named Albert Einstein? Sounds legit."
+230,1,"Being proud of common attributes is what makes America great, apparently."
+231,1,Democrats' dream: everyone owned by the State. How progressive.
+232,1,Moon sounds like a great escape from all this madness.
+233,1,Private ownership: the shortcut to becoming an agriculture expert overnight.
+234,1,Still waiting for the Southern Strategy backpedal. Maybe climate change solutions are next on the list.
+235,1,"And that brave, patriotic, pro-life Navy SEAL? Albert Einstein, of course."
+236,1,Proud American moment: celebrating the most common attributes.
+237,1,Democrats' new motto: State ownership for everyone. How inclusive.
+238,1,"That's it, I'm booking my moon ticket. Earth's lost its charm."
+239,1,Private ownership and instant expertise: a match made in heaven.
+240,1,Backtracking on strategies and solving climate change: a work in progress.
+241,1,Democrats' plan: everyone owned by the State. What could go wrong?
+242,1,"Moon, here I come. Earth's too wild for my taste."
+243,1,Private ownership: the key to overnight agricultural enlightenment.
+244,1,Backtracking strategies and solving climate change? Maybe in a few lifetimes.
